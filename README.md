@@ -38,7 +38,7 @@ C# | .NET
 A data-processing and validation project for external
 system records.
 
-###Python Data Analysis
+### Python Data Analysis
 Python | Pandas | NumPy | Matplotlib
 
 Data analysis and visualization projects.
